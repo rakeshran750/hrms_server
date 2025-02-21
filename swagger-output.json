@@ -1,11 +1,11 @@
 {
   "swagger": "2.0",
   "info": {
-    "title": "Hrms_back_end_api_docs",
+    "title": "Ms tv Ott",
     "description": "Description",
     "version": "1.0.0"
   },
-  "host": "https://hrms-server-2p7z.onrender.com/",
+  "host": "hrms-server-2p7z.onrender.com",
   "basePath": "/",
   "schemes": [
     "http"
