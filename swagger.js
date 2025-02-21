@@ -7,7 +7,7 @@ const doc = {
     title: 'Ms tv Ott',
     description: 'Description'
   },
-  host: 'hrms-server-2p7z.onrender.com'
+  host: 'localhost:5000'
 };
 
 const outputFile = './swagger-output.json';
